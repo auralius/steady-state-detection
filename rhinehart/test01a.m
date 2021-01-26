@@ -9,7 +9,7 @@ G = 10/(10*s+1);
 
 y_noisy = y + 0.2*randn(length(y),1); % added noise, normal distribution
 
-R = CalculateR(y_noisy);
+R = CalculateR(y_noisy, 0.2, 0.1, 0.1);
 
 yyaxis left
 hold on

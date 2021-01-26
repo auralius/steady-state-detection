@@ -5,7 +5,7 @@ close all
 load data.mat;
 y = M(1:2400,3);
 
-R = CalculateR(y);
+R = CalculateR(y, 0.2, 0.1, 0.1);
 
 
 figure
@@ -33,4 +33,4 @@ xlabel('n-th sample')
 ylabel('R-values')
 xticks([0:5:40]*60)
 xlim([0 2400])
-%ylim([0 2])
+%ylim([0 4])

@@ -4,13 +4,9 @@
 %
 % Section II
 
-function R = CalculateR(x)
+function R = CalculateR(x, l1, l2, l3)
 
 N = length(x);
-
-l1 = 0.2;
-l2 = 0.1;
-l3 = 0.1;
 
 cl1 = 1 - l1;
 cl2 = 1 - l2;
