@@ -14,7 +14,7 @@ A closer probability to 1 means the more likely it is in a steady state conditio
 
 [2] R. R. Rhinehart, “Automated steady and transient state identification in noisy processes,” in Proceedings of the American Control Conference, 2013, no. June 2013, pp. 4477–4493.
 
-The figure below is without data windowing applied, each data poin is processed immediately. It does not look so good. Perhaps, it needs more tuning for the lambda values.
+The figure below is without data windowing applied, each data point is processed immediately. It does not look so good. Perhaps, it needs more tuning for the lambda values.
 
 ![alt text](https://github.com/auralius/steady-state-detection/blob/main/rhinehart/result1.png)
 
@@ -23,7 +23,7 @@ The figure below is with data windowing applied. It looks nice ;-)
 
 ![alt text](https://github.com/auralius/steady-state-detection/blob/main/rhinehart/result2.png)
 
-The lower R-value means the more likely it is in a steady state condition.
+For this method, the lower R-value means the more likely it is in a steady state condition.
 
 ------------------------------------------------------
 
