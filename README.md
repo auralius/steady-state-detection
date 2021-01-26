@@ -8,7 +8,7 @@ Recontruction of the following papers on the topic of steady state detection / i
 
 ![alt text](https://github.com/auralius/steady-state-detection/blob/main/kelly/result2.png)
 
-Closer the probability to 1 means the more likely it is in a steady state condition.
+A closer probability to 1 means the more likely it is in a steady state condition.
 
 ------------------------------------------------------
 
