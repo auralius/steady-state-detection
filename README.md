@@ -10,6 +10,7 @@ Recontruction of the following papers on the topic of steady state detection / i
 
 Closer the probability to 1 means the more likely it is in a steady state condition.
 
+------------------------------------------------------
 
 [2] R. R. Rhinehart, “Automated steady and transient state identification in noisy processes,” in Proceedings of the American Control Conference, 2013, no. June 2013, pp. 4477–4493.
 
@@ -18,6 +19,8 @@ Closer the probability to 1 means the more likely it is in a steady state condit
 ![alt text](https://github.com/auralius/steady-state-detection/blob/main/rhinehart/result2.png)
 
 The lower R-value means the more likely it is in a steady state condition.
+
+------------------------------------------------------
 
 The plant that is used:
 
